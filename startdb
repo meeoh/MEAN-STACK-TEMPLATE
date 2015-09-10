@@ -1,0 +1,3 @@
+osascript -e 'tell app "Terminal"
+ do script "echo onesetimac | sudo /Users/omas/Downloads/mongodb-osx-x86_64-3.0.6/bin/mongod"
+end tell'
